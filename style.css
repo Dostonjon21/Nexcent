@@ -149,3 +149,23 @@ body {
     width: 400px;
     height: 400px;
 }
+
+
+.Clients h1{
+    color: #636363;
+    font-size: 40px;
+    text-align: center;
+    justify-content: space-between;
+}
+.Clients P{
+    color: #717171;
+    font-size: 20px;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.Clients img{
+    margin-left: 150px;
+    margin-top: 30px;
+    width: 50px;
+}
