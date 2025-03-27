@@ -77,7 +77,8 @@ body {
 .btn {
     width: 150px;
     height: 36px;
-    border-radius: 2.78px;
+    border-radius: 10px;
+    border:1px solid green;
     background-color: rgba(0, 128, 0, 0.63);
 }
 .btn span{
@@ -108,4 +109,43 @@ body {
     .navbar-toggler {
         display: flex;
     }
+}
+
+
+.home h1{
+    font-size: 70px;
+    color: #4d4d4d;
+}
+.sub{
+    font-size: 70px;
+    color: green;
+}
+.div{
+    margin-top: 200px;
+    margin-left: 50px;
+
+}
+.home p{
+    color: #929393;
+}
+.btn2{
+    width: 150px;
+    height: 36px;
+    border-radius: 10px;
+    border:1px solid green;
+    background-color: rgba(0, 128, 0, 0.63);
+    margin-top: 10px;
+}
+.btn2 span{
+    font-size: 15px;
+    color: #fff;
+}
+.btn2:hover{
+    background-color: green;
+}
+.home img{
+    margin-left: 900px;
+    margin-top: -300px;
+    width: 400px;
+    height: 400px;
 }
